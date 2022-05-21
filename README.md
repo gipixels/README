@@ -8,12 +8,12 @@
 [www.gisellez.art](https://gisellez.art/)
 
 ## About Me
-I'm a product designer in love with user interface and design system. </br>
-Developer in progress, learning about JavaScript and React. <br/>
+I'm a product designer learning about design system. </br>
+Developer in progress. <br/>
 
 
 ## Technologies
-- Knowledge in HTML, CSS, Wordpress, Magento, Webflow, other web tools
+- Knowledge in HTML, CSS, Wordpress, Adobe Commerce, Webflow, other web tools
 - UI Design with Figma
 - UX Design with a lot of softwares
 
