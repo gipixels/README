@@ -5,7 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsllzrt&layout=compact&langs_count=7&bg_color=292929&title_color=C597FF&text_color=F4F4F4&icon_color=FFE55A"/>
 </div>-->
 
-[www.gisellez.art](https://gisellezart.com/)
+[www.gisellezart.com](https://gisellezart.com/)
 
 ## About Me
 I'm a product designer learning about design system. </br>
