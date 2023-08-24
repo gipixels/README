@@ -5,7 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsllzrt&layout=compact&langs_count=7&bg_color=292929&title_color=C597FF&text_color=F4F4F4&icon_color=FFE55A"/>
 </div>-->
 
-[www.gisellez.art](https://gisellez.art/)
+[www.gisellez.art](https://gisellezart.com/)
 
 ## About Me
 I'm a product designer learning about design system. </br>
@@ -15,7 +15,6 @@ Always a work in progress. <br/>
 ## Technologies
 - Knowledge in HTML, CSS, Wordpress, other web tools
 - UI Design with Figma
-- UX Design with a lot of softwares
 
 #### Stack:
 [Design stack](https://zartgiselle.notion.site/Stack-4c80539f9d544b4bb16338969ee3e6c5)
