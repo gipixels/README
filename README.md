@@ -9,11 +9,11 @@
 
 ## About Me
 I'm a product designer learning about design system. </br>
-Developer in progress. <br/>
+Always a work in progress. <br/>
 
 
 ## Technologies
-- Knowledge in HTML, CSS, Wordpress, Adobe Commerce, Webflow, other web tools
+- Knowledge in HTML, CSS, Wordpress, other web tools
 - UI Design with Figma
 - UX Design with a lot of softwares
 
