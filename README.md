@@ -25,4 +25,4 @@ Always a work in progress. <br/>
 
 
 ## Contact Me
-<a href="https://www.linkedin.com/in/gisellecfz/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Giselle%20Zart-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gisellecfz/"/></a>
+<a href="https://www.linkedin.com/in/gisellezart/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Giselle%20Zart-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gisellecfz/"/></a>
