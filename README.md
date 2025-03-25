@@ -8,7 +8,7 @@
 [www.gisellezart.com](https://gisellezart.com/)
 
 ## About Me
-I'm a product designer learning about design system. </br>
+I'm a designer learning about digital products & design system. </br>
 Always a work in progress. <br/>
 
 
