@@ -13,7 +13,7 @@ Always a work in progress. <br/>
 
 
 ## Technologies
-- Knowledge in HTML, CSS, Wordpress, other web tools
+- Basic knowledge in HTML, CSS, Wordpress, other web tools
 - UI Design with Figma
 
 #### Stack:
