@@ -19,10 +19,6 @@ Always a work in progress. <br/>
 #### Stack:
 [Design stack](https://zartgiselle.notion.site/Stack-4c80539f9d544b4bb16338969ee3e6c5)
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
-
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/gisellezart/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Giselle%20Zart-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gisellecfz/"/></a>
